@@ -1,0 +1,22 @@
+Changelog for Sort Race
+
+10-22 update:
+    - put together gird setup into one function
+    - completed implementation of insertion sort
+
+10-28 update:
+    - completed merge sort
+
+10-29 update:
+    - completed gold's poresort
+
+10-31 update:
+    - updated quicksort 
+        - input still required to be array (needs fixing)
+        - cycles through entire sort, rather than a single step
+
+11-01 update:
+    - updated quicksort
+        - okay for inputs to be arrays, strings are all converted to arrays at setup
+        - now updated to perform one pass at a time
+    - finished everything else

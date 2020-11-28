@@ -1,0 +1,14 @@
+/*
+    Author Name: Andy Duong, Gregory Pierot, Kris Swartzbaugh
+    Author Email: aqduong@csu.fullerton.edu, pierotgregory@csu.fullerton.edu, kswartzb@csu.fullerton.edu
+    Course: CPSC 335-03 M 7:00pm-9:45pm
+    This File: styles.css - external style sheet for webpage
+*/
+
+body {
+    text-align: center;
+    font-family: sans-serif;
+}
+canvas {
+    background-color: black;
+}
